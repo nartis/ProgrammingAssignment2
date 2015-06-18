@@ -6,11 +6,11 @@
 ## git test 
 ## can I make change?
 
-## this function will creat a list vector containing functions that will
-## 1. set the value of the vector
-## 2. get the value of the vector
-## 3. set the value of the matrix
-## 4. get the value of the matrix
+## this function will creat a list of vector containing functions that will
+## 1. set the value of the matrix
+## 2. get the value of the matrix
+## 3. set the value of the inverse of matrix
+## 4. get the value of the inverse of matrix
 
 makeCacheMatrix <- function(x = matrix()) {
       ## reset the inverse
