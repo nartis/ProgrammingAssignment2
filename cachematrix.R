@@ -3,8 +3,7 @@
 
 ## Write a short comment describing this function
 
-## git test 
-## can I make change?
+## Retaking the course for Specialization. Had using the same account Previously used 
 
 ## this function will creat a list of vector containing functions that will
 ## 1. set the value of the matrix
